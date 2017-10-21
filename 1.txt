@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-allen
-=======
->>>>>>> allen
 master
-allen
-allen
-allen
